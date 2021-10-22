@@ -1,0 +1,47 @@
+<svg class="map map--3" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" id="fc2ecf4f-b68f-4513-b9b1-023b8e59f224" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 725.852 474.8028">
+              <defs>
+                <style>
+                  .a6b2cf1d-982c-4074-939c-def1e810c71b,
+                  .b7af3a07-fa39-4058-b651-a82b49ec2fff {
+                    fill: #d7d7dc;
+                  }
+                  .a14f866f-4f7a-44d1-8ce2-0196cc8a5315,
+                  .b7af3a07-fa39-4058-b651-a82b49ec2fff {
+                    stroke: #c7c7c9;
+                    stroke-width: 5px;
+                  }
+                  .bcda9f7c-e181-4957-95c8-412686bba70e {
+                    clip-path: url("#a7eb2c33-739a-465f-bad0-2cd5fdb817e4");
+                  }
+                  .a8395df6-cf60-4a17-b9c5-3e0ee29e36da {
+                    fill: #c7c7c9;
+                  }
+                  .ac5757b6-289d-49b1-b330-8a421129834d {
+                    fill: #90b000;
+                  }
+                  .a14f866f-4f7a-44d1-8ce2-0196cc8a5315 {
+                    fill: none;
+                  }
+                </style>
+                <clipPath id="a7eb2c33-739a-465f-bad0-2cd5fdb817e4"><polygon class="b7af3a07-fa39-4058-b651-a82b49ec2fff" points="278.965 1.917 278.965 40.217 332.526 40.217 332.526 1.917 723.22 1.917 723.22 215.176 523.12 215.176 523.12 250.298 631.94 250.298 631.94 471.717 382.995 471.717 338.672 346.192 262.282 346.192 228.916 471.717 2.38 471.717 2.38 211.663 37.22 211.663 37.22 1.917 278.965 1.917"></polygon></clipPath>
+              </defs>
+              <polygon class="a6b2cf1d-982c-4074-939c-def1e810c71b" points="278.965 1.917 278.965 40.217 332.526 40.217 332.526 1.917 723.22 1.917 723.22 215.176 523.12 215.176 523.12 250.298 631.94 250.298 631.94 471.717 382.995 471.717 338.672 346.192 262.282 346.192 228.916 471.717 2.38 471.717 2.38 211.663 37.22 211.663 37.22 1.917 278.965 1.917"></polygon>
+              <g class="bcda9f7c-e181-4957-95c8-412686bba70e">
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.12" points="182.589 208.353 -21.443 208.353 -24.313 376.857 97.405 376.857 159.258 295.63 182.589 295.63 182.589 208.353" style=""></polygon>
+                <rect class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.10" x="203.6617" y="210.4534" width="119.6827" height="85.4697" style=""></rect>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.9" points="338.881 210.453 338.881 295.923 419.661 295.923 447.173 266.351 447.173 210.453 338.881 210.453" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.11" points="264.101 315.714 173.827 315.714 111.974 396.941 26.589 396.941 26.589 481.348 264.101 481.348 264.101 315.714" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.1" points="182.961 193.46 182.961 74.863 101.734 73.631 101.734 -52.395 14.456 -55.265 14.456 193.46 182.961 193.46" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.2" points="202.805 193.46 302.873 193.46 302.873 -59.858 121.578 -62.729 121.578 58.99 202.805 60.222 202.805 193.46" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.4" points="503.041 117.363 590.318 117.363 590.318 -86.646 421.814 -89.516 421.814 32.202 503.041 94.055 503.041 117.363" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.3" points="429.003 65.085 403.831 45.917 403.831 -39.468 319.424 -39.468 319.424 115.777 429.003 115.777 429.003 65.085" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.7" points="469.57 332.087 535.434 382.242 535.417 479.325 635.203 479.325 635.203 245.867 469.57 245.867 469.57 332.087" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.8" points="488.934 405.094 431.156 360.313 252.471 359.435 252.471 516.203 488.934 516.203 488.934 405.094" style=""></polygon>
+                <polygon class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.5" points="607.312 116.904 725.909 116.904 727.141 35.677 853.166 35.677 856.037 -51.6 607.312 -51.6 607.312 116.904" style=""></polygon>
+                <rect class="a8395df6-cf60-4a17-b9c5-3e0ee29e36da map__space" data-level="3" data-space="3.6" x="607.3116" y="136.7483" width="119.3491" height="100.0683" style=""></rect>
+                <circle class="ac5757b6-289d-49b1-b330-8a421129834d" cx="344.0015" cy="160.5332" r="18.1401"></circle>
+                <circle class="ac5757b6-289d-49b1-b330-8a421129834d" cx="412.9296" cy="161.8502" r="18.1401"></circle>
+                <circle class="ac5757b6-289d-49b1-b330-8a421129834d" cx="552.4373" cy="161.8502" r="18.1401"></circle>
+              </g>
+              <polygon class="a14f866f-4f7a-44d1-8ce2-0196cc8a5315 map__outline" points="278.965 1.917 278.965 40.217 332.526 40.217 332.526 1.917 723.22 1.917 723.22 215.176 523.12 215.176 523.12 250.298 631.94 250.298 631.94 471.717 382.995 471.717 338.672 346.192 262.282 346.192 228.916 471.717 2.38 471.717 2.38 211.663 37.22 211.663 37.22 1.917 278.965 1.917"></polygon>
+            </svg>
